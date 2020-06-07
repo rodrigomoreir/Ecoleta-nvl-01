@@ -20,4 +20,6 @@ O que foi usado?
 - Express
 - Knex
 
+![Web](https://user-images.githubusercontent.com/62709202/83975079-1f489f00-a8c8-11ea-9b93-2f7acb2c9312.png)
+
 Sensacional o que conseguimos aprender junto a Rocketseat em apenas uma semana!🏆
