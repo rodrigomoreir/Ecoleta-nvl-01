@@ -10,6 +10,8 @@ onde as pessoas interessadas podem descobrir os
 locais e levar seus resíduos para um descarte
 adequado. 🌎
 
+![ecoleta](https://user-images.githubusercontent.com/62709202/83975060-fa542c00-a8c7-11ea-9d14-76a72e7ad249.jpg)
+
 O que foi usado?
 - Typescript
 - NodeJS
